@@ -5,9 +5,9 @@ import './App.css';
 function App() {
   return (
     <div className="app">
-      <div className="name">John Mitchell</div>
+      <div className="name">JOHN MITCHELL</div>
       <div className="title">
-        Physics-Infused Software Engineer
+        PHSYICS-INFUSED SOFTWARE ENGINEER
       </div>
     </div>
   );
